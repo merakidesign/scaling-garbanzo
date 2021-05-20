@@ -8,7 +8,6 @@
 .header {
   display: flex;
   justify-content: center;
-  margin-top: 30px;
 }
 
 .backToHome {
@@ -17,7 +16,7 @@
 
 .branding {
   max-width: min-content;
-  font-family: VenusSB-MediumExtended;
+  font-family: "VenusSB-MediumExtended";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -26,20 +25,22 @@
   text-align: center;
   letter-spacing: 0.25em;
   text-transform: uppercase;
+  margin-top: 36px;
 }
 
 .scroll {
-  padding-bottom: 30px;
+  text-align: center;
 }
 
 .scrollmessage {
-  font-family: VenusSB-MediumExtended;
+  font-family: "VenusSB-MediumExtended";
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
   line-height: 100%;
   /* identical to box height, or 10px */
-  text-align: center;
   letter-spacing: 0.25em;
   text-transform: uppercase;
+  margin-top: 32px;
+  padding-bottom: 50px;
 }

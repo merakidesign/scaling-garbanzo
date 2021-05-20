@@ -125,7 +125,7 @@
 }
 
 .title {
-  font-family: EB Garamond;
+  font-family: "EB Garamond";
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -136,7 +136,7 @@
 }
 
 .subtitle {
-  font-family: VenusSB-MediumExtended;
+  font-family: "VenusSB-MediumExtended";
   font-style: normal;
   font-weight: 500;
   font-size: 8px;
@@ -145,4 +145,5 @@
   text-align: center;
   letter-spacing: 0.25em;
   text-transform: uppercase;
+  margin-bottom: 36px;
 }
