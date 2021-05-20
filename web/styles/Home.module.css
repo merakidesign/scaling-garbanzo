@@ -147,3 +147,18 @@
   text-transform: uppercase;
   margin-bottom: 36px;
 }
+
+@media (min-width: 600px) {
+  .hero {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .title {
+    font-size: 48px;
+  }
+
+  .subtitle {
+    font-size: 10px;
+  }
+}
