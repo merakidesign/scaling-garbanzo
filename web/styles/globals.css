@@ -38,3 +38,11 @@ img {
     url("/fonts/Venus/VenusSB-MediumExtended.woff") format("woff");
   font-display: swap;
 }
+
+::-moz-selection {
+  background: #e6e6e6;
+}
+
+::selection {
+  background: #e6e6e6
+}
