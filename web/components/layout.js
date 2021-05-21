@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <link
           rel="preload"
-          href="/fonts/EBGaramond/EBGaramond-Regular.ttf"
+          href="/fonts/EBGaramond/EBGaramond-Regular.woff"
           as="font"
           crossOrigin=""
         />
