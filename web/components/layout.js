@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
         />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Holistic design and intuitive websites for devoted lifestyle and wellness brands"
         />
         <meta
           property="og:image"
