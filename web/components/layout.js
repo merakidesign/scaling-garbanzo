@@ -2,7 +2,7 @@ import Head from "next/head";
 import styles from "./layout.module.css";
 
 const name = "Meraki Designs";
-export const siteTitle = "MerakiDesigns Website";
+export const siteTitle = "MerakiDesigns — An Experience Design Studio";
 
 export default function Layout({ children, home }) {
   return (
